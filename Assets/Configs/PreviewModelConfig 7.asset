@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 359c49aa41f3bed45ac4fc307b085ca7, type: 3}
+  m_Name: PreviewModelConfig 7
+  m_EditorClassIdentifier: 
+  _modelPrefab: {fileID: 1635834232053491747, guid: e1702085d8c0029449a3010c3f35b508, type: 3}
+  _modelName: CubeX
